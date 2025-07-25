@@ -1,6 +1,6 @@
 package com.algaworks.algadelivery.deliver.tracking.domain.model;
 
-import com.algaworks.algadelivery.delivery.tracking.domain.exception.model.DeliveryStatus;
+import com.algaworks.algadelivery.delivery.tracking.domain.model.DeliveryStatus;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

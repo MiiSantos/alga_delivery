@@ -1,4 +1,4 @@
-package com.algaworks.algadelivery.delivery.tracking.domain.exception.model;
+package com.algaworks.algadelivery.delivery.tracking.domain.model;
 
 import java.util.Arrays;
 import java.util.List;
