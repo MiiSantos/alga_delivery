@@ -1,10 +1,10 @@
-package com.algaworks.algadelivery.deliver.tracking;
+package com.algaworks.algadelivery.delivery.tracking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DeliverTrackingApplicationTests {
+class DeliveryTrackingApplicationTests {
 
 	@Test
 	void contextLoads() {

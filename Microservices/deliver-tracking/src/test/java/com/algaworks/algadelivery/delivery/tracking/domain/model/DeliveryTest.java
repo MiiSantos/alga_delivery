@@ -1,4 +1,4 @@
-package com.algaworks.algadelivery.deliver.tracking.domain.model;
+package com.algaworks.algadelivery.delivery.tracking.domain.model;
 
 import com.algaworks.algadelivery.delivery.tracking.domain.exception.DomainException;
 import com.algaworks.algadelivery.delivery.tracking.domain.model.ContactPoint;
