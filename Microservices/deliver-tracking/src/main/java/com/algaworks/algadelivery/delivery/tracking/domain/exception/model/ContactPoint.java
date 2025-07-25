@@ -1,4 +1,4 @@
-package com.algaworks.algadelivery.deliver.tracking.domain.model;
+package com.algaworks.algadelivery.delivery.tracking.domain.exception.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

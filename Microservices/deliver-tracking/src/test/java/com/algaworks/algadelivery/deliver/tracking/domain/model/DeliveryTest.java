@@ -1,6 +1,9 @@
 package com.algaworks.algadelivery.deliver.tracking.domain.model;
 
-import com.algaworks.algadelivery.deliver.tracking.domain.exception.DomainException;
+import com.algaworks.algadelivery.delivery.tracking.domain.exception.DomainException;
+import com.algaworks.algadelivery.delivery.tracking.domain.exception.model.ContactPoint;
+import com.algaworks.algadelivery.delivery.tracking.domain.exception.model.Delivery;
+import com.algaworks.algadelivery.delivery.tracking.domain.exception.model.DeliveryStatus;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;
