@@ -4,8 +4,13 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
-    show-sql: false
+    show-sql: true
   datasource:
     url: jdbc:postgresql://localhost:5432/deliverydb
     username: postgres
     password: postgres
+
+logging:
+  level:
+    # Mostra as queries SQL geradas pelo Hibernate antes de serem executadas.
+    org.hibernate.SQL: DEBUG

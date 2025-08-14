@@ -1,4 +1,4 @@
-package com.algaworks.algadelivery.deliver.tracking;
+package com.algaworks.algadelivery.delivery.tracking;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DeliveryTrackingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(com.algaworks.algadelivery.deliver.tracking.DeliveryTrackingApplication.class, args);
+		SpringApplication.run(com.algaworks.algadelivery.delivery.tracking.DeliveryTrackingApplication.class, args);
 	}
 
 }

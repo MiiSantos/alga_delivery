@@ -8,7 +8,7 @@ import lombok.*;
 @Embeddable
 @AllArgsConstructor
 @EqualsAndHashCode
-@NoArgsConstructor(access = AccessLevel.PACKAGE)
+@NoArgsConstructor
 public class ContactPoint {
 
     private String zipCode;
